@@ -49,4 +49,3 @@ int main(void) {
   }while(opt!=0);
     return 0;
 }
-metoda babiloniana se poate folosi pentru calcularea radicalului in limbaje de programare care nu au predefinita o astfel de functie. 
